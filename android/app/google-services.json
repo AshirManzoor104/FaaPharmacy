@@ -1,0 +1,39 @@
+{
+    "project_info": {
+        "project_number": "704204845051",
+        "project_id": "webtoapp-a59f8",
+        "storage_bucket": "webtoapp-a59f8.appspot.com"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:704204845051:android:bd214bc7f24e538864255e",
+                "android_client_info": {
+                    "package_name": "com.example.whatsapp_ui_app"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "704204845051-cmr82j5nc48dm13a88ln1644ejhafu8j.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyBdtAS1XVZQjZIHiasWg77lJtnly1hdK4A"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "704204845051-cmr82j5nc48dm13a88ln1644ejhafu8j.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
